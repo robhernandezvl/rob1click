@@ -64,4 +64,5 @@ p {
 	height: 200px;
 	background: yellow;
 	margin: auto;
+        display: inline-block;
 }
