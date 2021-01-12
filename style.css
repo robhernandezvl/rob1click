@@ -47,18 +47,6 @@ p {
         float: left;
         clear: both;
 }
-
-#cajita {
-	width: 200px;
-	height: 30px;
-	margin: 10px 40px 10px 10px;
-	background-color: orange;
-	/*text-align: center;*/
-	vertical-align: middle;
-        display: block;
-/*        float: right;*/
-}
-
 .caja2 {
 	width: 200px;
 	height: 250px;
@@ -69,5 +57,17 @@ p {
 	box-shadow: 1px 1px 5px 0px #000;
         display: inline-block;
         float: right;
-/*        clear: both;*/ 	
+       clear: both;
+}
+
+
+#cajita {
+	width: 200px;
+	height: 30px;
+	margin: 10px 40px 10px 10px;
+	background-color: orange;
+	/*text-align: center;*/
+	vertical-align: middle;
+        display: block;
+/*        float: right;*/
 }
