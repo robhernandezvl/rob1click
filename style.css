@@ -3,6 +3,7 @@ h2 {
 	font-size: : 20px;
 }
 .caja1 {
+	font-size: 15px;
 	width: 200px;
 	height: 250px;
 	background: white;
@@ -13,6 +14,7 @@ h2 {
 }
 
 .cajita {
+	font-size: 18px;
 	width: 200px;
 	height: 40px;
 	margin: 10px;
