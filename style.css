@@ -47,10 +47,10 @@ p {
 
 #cajita {
 	width: 200px;
-	height: 40px;
+	height: 30px;
 	/*margin: -40px 300px;*/
 	background-color: white;
-	text-align: center;
+	/*text-align: center;*/
 	vertical-align: middle;
 }
 
