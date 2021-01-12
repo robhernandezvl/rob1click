@@ -55,6 +55,7 @@ p {
 	background-color: orange;
 	/*text-align: center;*/
 	vertical-align: middle;
+        display: block;
 }
 
 .caja2 {
