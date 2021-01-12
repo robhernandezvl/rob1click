@@ -12,7 +12,7 @@ h2 {
 	box-shadow: 1px 1px 5px 0px #000;
 }
 
-#cajita {
+.cajita {
 	width: 200px;
 	height: 40px;
 	/*margin: -40px 300px;*/
