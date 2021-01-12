@@ -48,8 +48,8 @@ p {
 #cajita {
 	width: 200px;
 	height: 30px;
-	margin: 10px 30px 10px 10px;
-	background-color: lime;
+	margin: 10px 40px 10px 10px;
+	background-color: orange;
 	/*text-align: center;*/
 	vertical-align: middle;
 }
