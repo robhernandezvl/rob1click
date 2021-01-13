@@ -18,7 +18,7 @@ h2 {
 	background-color: #09c;
 	display: inline-block;
 	padding: 50px; /* Los 4 lados*/
-/*  padding: 10px 20px 30px 40px;*/
+/*      padding: 10px 20px 30px 40px;*/
 /*          top  right bottom left */
 	box-sizing: border-box;
 	margin: 8px;
@@ -26,7 +26,7 @@ h2 {
 	border:  1px solid red;
 	line-height: 2; /* Altura de la linea, no del font*/
 	box-shadow: 10px 14px 15px 0px #000;
-/*  sombra       X   Y tamaño borde color*/
+/*      sombra       X   Y tamaño borde color*/
 	text-shadow: 4px 4px 7px #000;
 	transform: rotate(-45deg);
 	outline: 	
@@ -59,11 +59,11 @@ p {
         display: inline-block;
         Align: center; 
 /*        float: right; */
-     clear: both; 
+        clear: both; 
 }
 
 
-#cajita {;
+#cajita {
 	width: 300px;
 	height: 30px;
 	margin: 10px 40px 10px 10px;
