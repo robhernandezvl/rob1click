@@ -63,8 +63,7 @@ p {
 }
 
 
-#cajita {
-        font-size: 85px;
+#cajita {;
 	width: 300px;
 	height: 30px;
 	margin: 10px 40px 10px 10px;
@@ -73,4 +72,7 @@ p {
 	vertical-align: middle;
         display: block;
 /*        float: right;*/
+}
+#cajita h3 {
+        font-size: 85px
 }
