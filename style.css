@@ -50,6 +50,7 @@ p {
 }
 .caja2 {
 	width: 300px;
+        width: 33%;
 	height: 250px;
 	background: white;
 	margin: 10px;
@@ -65,7 +66,6 @@ p {
 
 #cajita {
 	width: 950px;
-        Width: 100%;
 	height: 70px;
 /*	margin: 30px 0px 50px 0px; */
 /*      Margen  top  */ 
