@@ -66,8 +66,8 @@ p {
 #cajita {
 	width: 100%;
 	height: 85px;
-	margin: 50px 0px 0px 0px;
-/*      Margen */ 
+	margin: 30px 50px 0px 0px;
+/*      Margen  top  */ 
 	background-color: orange;
 	/*text-align: center;*/
 	vertical-align: middle;
